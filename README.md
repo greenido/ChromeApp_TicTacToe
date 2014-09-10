@@ -11,5 +11,5 @@ There is a [good tutorial](https://support.google.com/chrome/a/answer/2714278?hl
 ### Misc
 * http://greenido.wordpress.com/2012/09/05/educational-apps-on-chromeos/
 * http://greenido.wordpress.com/2012/02/07/how-to-get-your-web-app-into-the-chrome-web-store/
-* http://appmator.appspot.com/
+* If you got a good web app and you wish to upload it to the Chrome Web Store. This will help you doing quickly: http://appmator.appspot.com/
 
