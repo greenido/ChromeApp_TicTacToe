@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "TicTacToe2",
+  "short_name": "TicTacToe2",
+  "description": "Ido's tic tac toe for a talk with GDG TLV 2014",
+
+  "version": "0.0.1.0",
+
+  "icons": {
+    "16": "assets/icon_16.png",
+    "128": "assets/icon_128.png"
+  },
+
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
